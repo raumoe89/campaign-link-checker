@@ -1,0 +1,3 @@
+https://example.com/guide?utm_source=x&utm_medium=paid_social&utm_campaign=product_launch
+https://example.com/guide?utm_source=newsletter&utm_medium=email&utm_campaign=product_launch
+https://example.com/guide?utm_source=x&utm_source=linkedin&utm_medium=Paid+Social
